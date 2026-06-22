@@ -1,8 +1,8 @@
-=====================================================================
+
 ANEXO DE REPRODUCIBILIDAD
 Trabajo de Fin de Máster
 Autora: Elena Aguirre Fernández Bravo
-=====================================================================
+
 
 Este paquete permite dos cosas: (a) regenerar todo el proceso desde el
 corpus, paso a paso, y (b) explorar los resultados ya calculados en
